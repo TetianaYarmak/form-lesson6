@@ -31,7 +31,7 @@ div {
 .radio {
 
   p {
-    width: 40%;
+    width: 38%;
     margin: 0;
     padding: 0;
   }
@@ -58,7 +58,7 @@ div {
   justify-content: space-between;
 
   select {
-    width: 50%;
+    width: 51%;
     margin-right: 10%;
     height: 30px;
     border: 1px solid black;
@@ -68,6 +68,7 @@ div {
 
 .textarea-address {
   justify-content: space-between;
+  align-items: flex-end;
 
   textarea {
     width: 60%;
